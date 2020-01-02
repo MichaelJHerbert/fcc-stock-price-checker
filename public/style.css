@@ -1,0 +1,24 @@
+#userstories {
+  margin-top: 5%;
+  margin-left: 5%;
+} 
+
+#testui {
+  margin-left: 5%;
+}
+
+#title {
+  text-align: left;
+}
+
+#testFormInput {
+  width: 100px;
+}
+
+hr {
+  margin: 50px;
+}
+
+.stock-input {
+  width: 100px;
+}
